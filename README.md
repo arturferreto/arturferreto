@@ -1,6 +1,5 @@
 ### Hi there 👋
-
-- ![GIF of a dancing cat.](cat-dancing.gif)
+![GIF of a dancing cat.](cat-dancing.gif)
 
 <!--
 **arturferreto/arturferreto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
